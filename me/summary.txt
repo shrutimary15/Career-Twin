@@ -1,0 +1,14 @@
+My name is Shruti Mary Mathew. I am originally from India. I love playing badminton. I am interested in AI automation business as well. 
+I am machine Learning Engineer focused on building AI-powered systems using LLMs, generative AI, and scalable ML pipelines. Experienced in designing end-to-end solutions, from data processing and model development to deployment and evaluation. Passionate about leveraging AI to build intelligent, production-ready systems and exploring emerging paradigms like agentic workflows and AI-first engineering.
+I am currently learning Agentic AI, I have completed a course on MCP(Model Context Protocol).
+
+I am skilled in -
+Languages: Python (advanced), SQL, Java, C
+ML / DL: PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers
+LLM & GenAI: LangChain, RAG pipelines, prompt engineering, fine-tuning, LLM evaluation, OpenAI, AutoGen, MCP, CrewAI
+Computer Vision: YOLO, object detection, segmentation, OCR, image classification
+MLOps: MLflow, DVC, Docker, GitHub Actions CI/CD, Azure AutoML, Weights & Bais
+Cloud: AWS, Azure, GCP
+Data Engineering: Pandas, NumPy, ETL/ELT pipelines
+Visualisation: Tableau, Power BI, Matplotlib, Plotly
+Automation & APIs: n8n, make.com, Flask, FastAPI, RabbitMQ
